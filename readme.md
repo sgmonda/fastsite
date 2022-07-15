@@ -1,6 +1,6 @@
 # fastsite
 
-A proof of concept to generate websites from static content
+A proof of concept to generate websites from static content.
 
 ## See in action
 
